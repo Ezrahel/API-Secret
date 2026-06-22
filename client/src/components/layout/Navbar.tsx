@@ -77,7 +77,7 @@ export const Navbar = () => {
             )}
           </Button>
           <a
-            href="https://github.com/secrets"
+            href="https://github.com/ezrahel/API-Secret"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex"
